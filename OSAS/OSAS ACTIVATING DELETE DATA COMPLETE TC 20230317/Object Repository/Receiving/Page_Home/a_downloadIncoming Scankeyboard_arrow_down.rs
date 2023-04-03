@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_downloadIncoming Scankeyboard_arrow_down</name>
+   <tag></tag>
+   <elementGuidId>c71b193d-4e95-4db4-a58b-082d792bec06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-sidenav[@id='snav']/div/app-sidebar/mat-nav-list/mat-list-item[4]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ce3d4f3-f6b9-4144-a712-c74799feccca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>723f3d94-b44c-4793-9c81-27d4b16d88a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>8ddff76b-5e2e-41d1-ae7e-dd8232146131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>downloadIncoming Scankeyboard_arrow_down</value>
+      <webElementGuid>5958c759-ba5a-48b6-9df9-052637d2414f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snav&quot;)/div[@class=&quot;mat-drawer-inner-container ng-tns-c67-2&quot;]/app-sidebar[@class=&quot;app-sidebar ng-tns-c67-2&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/span[@class=&quot;mat-list-item-content&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>0edfea7f-560f-4998-8a3b-8fa10ba2977f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav[@id='snav']/div/app-sidebar/mat-nav-list/mat-list-item[4]/span/a</value>
+      <webElementGuid>6045b35d-957b-4593-a2c3-b6a8a28c5457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handover 3P'])[1]/following::a[1]</value>
+      <webElementGuid>68f86460-d58f-4e5b-9518-1ba8ca97b22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reprint Outgoing'])[1]/following::a[2]</value>
+      <webElementGuid>49f6d4f1-845d-4831-a550-7d860340311e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiving Scan'])[1]/preceding::a[1]</value>
+      <webElementGuid>2a1b0302-d39b-46a7-b560-e9c92b21ea7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[3]</value>
+      <webElementGuid>7011895f-d0de-4939-9339-bb56f1b85a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item[4]/span/a</value>
+      <webElementGuid>69cee5de-52a3-46aa-9c7b-1cf181c0b760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = 'downloadIncoming Scankeyboard_arrow_down' or . = 'downloadIncoming Scankeyboard_arrow_down')]</value>
+      <webElementGuid>111b00f7-39a5-4886-b5e6-400a9b9956fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

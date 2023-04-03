@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify WEB Can Open &quot;Receiving Scan&quot;</description>
+   <name>OSAS-ADD-TC-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c58589-3b3d-4ad1-a215-b4c1bac7fa13</testCaseGuid>
+</TestCaseEntity>

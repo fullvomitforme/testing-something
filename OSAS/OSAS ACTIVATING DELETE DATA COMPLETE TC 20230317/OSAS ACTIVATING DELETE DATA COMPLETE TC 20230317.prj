@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>OSAS BACKEND activating delete data complete in bagging scan and receiving scan
+test bagging scan
+
+test receiving scan
+
+test tracking with old and new awb
+
+test history scan with old and new awb</description>
+   <name>OSAS ACTIVATING DELETE DATA COMPLETE TC 20230317</name>
+   <tag></tag>
+   <UUID>0f15a116-2cf5-4400-a3ca-1117ab13d588</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\ondel\OneDrive\Documents\TAZKIYA MUJAHID\AUTOMATION TESTING\OSAS\OSAS ACTIVATING DELETE DATA COMPLETE TC 20230317\OSAS ACTIVATING DELETE DATA COMPLETE TC 20230317.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

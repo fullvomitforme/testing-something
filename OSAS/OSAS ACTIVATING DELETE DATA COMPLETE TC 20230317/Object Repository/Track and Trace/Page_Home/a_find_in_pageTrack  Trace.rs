@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_find_in_pageTrack  Trace</name>
+   <tag></tag>
+   <elementGuidId>18906e65-7a14-4156-a413-31df9eec164f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-sidenav[@id='snav']/div/app-sidebar/mat-nav-list/mat-list-item[7]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03051523-7552-427a-a33c-dc3159a35f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tracking</value>
+      <webElementGuid>d5293e3a-1cb2-4c5f-916b-60211cd4d4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>e9541803-67ce-4ab4-81d7-81844acae3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>find_in_pageTrack &amp; Trace</value>
+      <webElementGuid>fa2a6b66-f443-43f0-9ad9-10d0af133fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snav&quot;)/div[@class=&quot;mat-drawer-inner-container ng-tns-c67-2&quot;]/app-sidebar[@class=&quot;app-sidebar ng-tns-c67-2&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/span[@class=&quot;mat-list-item-content&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>99be11d1-3342-4e89-9889-240c4f3de1af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav[@id='snav']/div/app-sidebar/mat-nav-list/mat-list-item[7]/span/a</value>
+      <webElementGuid>44f095df-9afe-4102-a7d5-73bfb86d9caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Shipping Fee'])[1]/following::a[1]</value>
+      <webElementGuid>ff385106-8f16-4903-8b01-a92e10196dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagging PCP'])[1]/following::a[2]</value>
+      <webElementGuid>c110ff5a-4d32-4da7-8667-031c3b6feb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>25c656f7-f584-4d16-a8ad-f787bf6ba1ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tracking')]</value>
+      <webElementGuid>70496888-f555-4a5e-a79b-b762a2e71924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item[7]/span/a</value>
+      <webElementGuid>418012f2-b47b-4428-be10-1726107d5cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tracking' and (text() = 'find_in_pageTrack &amp; Trace' or . = 'find_in_pageTrack &amp; Trace')]</value>
+      <webElementGuid>272276b7-a79f-4704-8b8f-04a4588dc337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
